@@ -4,10 +4,13 @@
 
 Проекты: 
  - Курсовая работа "Информационно-справочная система архива организации" (2023)
+
 Java, RESTful API, ORM(Hibernate), PostgreSQL, HTML+JS, Spring Security, Thymeleaf
  - Проект по программной инженерии "Telegram Bot для малого бизнеса" (2023)
+
 Python
  - Дипломная работа "Разработка сервиса автоматизации базовых процессов управления коворкингом"(2025)
+
 Python, Django, React, PostgreSQL
 
 
