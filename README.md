@@ -14,13 +14,20 @@ Python, Django, React, PostgreSQL
 
 ✨
 Python
-Java 
+
+Java
+
 HTML, CSS, JavaScript
 React
+
 Android Studio
+
 Linux
+
 SQL 
+
 Машинное обучение (ML, DL)
+
 
 Английский C1
 ✨
