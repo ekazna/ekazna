@@ -27,7 +27,7 @@ Java, RESTful API, ORM(Hibernate), PostgreSQL, HTML+JS, Spring Security, Thymele
 
 Python
 
-✔️Дипломная работа "Разработка сервиса автоматизации базовых процессов управления коворкингом"(2025)
+✔️[Дипломная работа "Разработка сервиса автоматизации базовых процессов управления коворкингом"(2025)](https://github.com/ekazna/coworking-project/tree/main)
 
 Python, Django, React, PostgreSQL
 
